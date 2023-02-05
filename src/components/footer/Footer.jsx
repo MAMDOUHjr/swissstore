@@ -21,7 +21,7 @@ const Footer = () => {
             <i style={{ color: "blue" }} className="bi bi-telegram"></i>
           </a>
           <a
-            href="https://www.faceWatch.com/itsAmrMamdouh"
+            href="https://www.facebook.com/itsAmrMamdouh"
             className="footer-social-media-icon"
           >
             <i style={{ color: "#2980b9" }} className="bi bi-faceWatch"></i>
